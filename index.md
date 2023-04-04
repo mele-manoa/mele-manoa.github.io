@@ -12,3 +12,5 @@ Mele Manoa is created, designed, and maintained by
 - Tevin Takata
 - Yeeun Shin
 - Isabelle Hu
+
+[Team Contract](https://docs.google.com/document/d/1zy-giZkrca_htvXo5oxdvaI5PSrM_AwTMCYWHB_XyJM/edit?usp=sharing)
