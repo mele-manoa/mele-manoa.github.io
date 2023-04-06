@@ -20,4 +20,4 @@ Mele Manoa is created, designed, and maintained by
 
 [Team Contract](https://docs.google.com/document/d/1zy-giZkrca_htvXo5oxdvaI5PSrM_AwTMCYWHB_XyJM/edit?usp=sharing)
 
-[Milestone 1] (https://github.com/orgs/mele-manoa/projects/1/views/1)
+[Milestone 1](https://github.com/orgs/mele-manoa/projects/1/views/1)
