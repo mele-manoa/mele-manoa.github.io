@@ -10,6 +10,7 @@ Mele Manoa is a web application designed to bring musicians of UH together for j
 
 ## User Guide
 Login with your UH username and create your profile. Your profile will include your musical talents and interests, and will be made public for others to see so that you will be able to join groups for jam sessions. Navigate to the 'Discover' page to find others of similar musical interests as yours.
+Admin accounts will be able to create more options for instrument groups and genres that the Discover page can be filtered by.
 
 ## Team Members
 Mele Manoa is created, designed, and maintained by
