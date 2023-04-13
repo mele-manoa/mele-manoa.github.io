@@ -36,3 +36,5 @@ Mele Manoa is created, designed, and maintained by
 [Milestone 1](https://github.com/orgs/mele-manoa/projects/1/views/1)
 
 [Milestone 2](https://github.com/orgs/mele-manoa/projects/2/views/1)
+
+[Deployment](http://198.211.96.241/#)
