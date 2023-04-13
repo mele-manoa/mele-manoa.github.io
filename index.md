@@ -5,12 +5,12 @@ Mele Manoa is a web application designed to bring musicians of UH together for j
 
 <figure>
     <img src="img/Homepage.png" class="rounded"/>
-    <figcaption class="figure-caption text-wrap" style="width: 500px"> Background image subject to change.</figcaption>
+    <figcaption class="figure-caption text-wrap" style="width: 500px"> Current home/landing page </figcaption>
 </figure>
 
 <figure>
     <img src="img/SignIn.png" class="rounded"/>
-    <figcaption class="figure-caption text-wrap" style="width: 500px"> Background image subject to change.</figcaption>
+    <figcaption class="figure-caption text-wrap" style="width: 500px"> Up to date sign in page. </figcaption>
 </figure>
 
 ## User Guide
