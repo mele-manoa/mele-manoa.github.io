@@ -31,13 +31,13 @@ Admin accounts will be able to create more options for instrument groups and gen
 
 ## Developer Guide
 To modify this web app, go to the [mele-manoa repository](https://github.com/mele-manoa/mele-manoa) on Github. Next, clone mele-manoa to your own local repository by clicking on **Code** and choose which method you prefer the most. I recommend opening it in Github Desktop. Then, name your local repository and open the repository in an IDE of your choice.
-<img src="img/devguide/devGuide1.png" class="rounded float-right" style="width: 250px" />
+<img src="img/devguide/devGuide1.png" class="rounded" style="width: 500px" />
 Next, open up Terminal on Mac or Command Line on Windows or Linux. Navigate to the /app directory in your repository. Within /app, run `meteor npm install`. This will install all the extra necesary `npm` files.
-<img src="img/devguide/devGuide2.png" class="rounded float-right" style="width: 250px" />
+<img src="img/devguide/devGuide2.png" class="rounded" style="width: 500px" />
 Then, run `meteor npm run start`.
-<img src="img/devguide/devGuide3.png" class="rounded float-right" style="width: 250px" />
+<img src="img/devguide/devGuide3.png" class="rounded" style="width: 500px" />
 This process may take a while. After it is finished, you should be able to see the webpage up and running at [localhost:3000](http://localhost:3000/).
-<img src="img/devguide/devGuide4.png" class="rounded float-right" style="width: 250px" />
+<img src="img/devguide/devGuide4.png" class="rounded" style="width: 500px" />
 
 ## Team Members
 Mele Manoa is created, designed, and maintained by
