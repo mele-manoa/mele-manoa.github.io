@@ -36,15 +36,17 @@ Mele Manoa is a web application designed to bring musicians of UH together for j
 </figure>
 
 ## User Guide
-Login with your UH username and create your profile. Your profile will include your musical talents and interests, and will be made public for others to see so that you will be able to join groups for jam sessions. Navigate to the 'Discover' page to find others of similar musical interests as yours.
-Admin accounts will be able to create more options for instrument groups and genres that the Discover page can be filtered by.
+Login with your UH username and create your profile. Your profile will include your musical talents and interests, and will be made public for others to see so that you will be able to join groups for jam sessions. You may also choose to include links to YouTube, SoundCloud, or Instagram. Navigate to the 'Discover' page to find others of similar musical interests as yours.
+Admin accounts will be able to create or modify options for instrument groups and genres that the Discover page can be filtered by.
+
+You may edit your profile at any time using the 'Edit' button on your profile page. From there, you may modify your current information, and the 'Submit' button will save your information.
 
 ## Developer Guide
 To modify this web app, go to the [mele-manoa repository](https://github.com/mele-manoa/mele-manoa) on Github. Next, clone mele-manoa to your own local repository by clicking on **Code** and choose which method you prefer the most. I recommend opening it in Github Desktop. Then, name your local repository and open the repository in an IDE of your choice.
 
 <img src="img/devguide/devGuide1.png" class="rounded" />
 
-Next, open up Terminal on Mac or Command Line on Windows or Linux. Navigate to the /app directory in your repository. Within /app, run `meteor npm install`. This will install all the extra necesary `npm` files.
+Next, open up Terminal on Mac or Command Line on Windows or Linux. Navigate to the /app directory in your repository. Within /app, run `meteor npm install`. This will install all the extra necessary `npm` files.
 
 <img src="img/devguide/devGuide2.png" class="rounded" />
 
