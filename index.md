@@ -26,6 +26,11 @@ Mele Manoa is a web application designed to bring musicians of UH together for j
 </figure>
 
 <figure>
+    <img src="img/editProfileM2.png" class="rounded"/>
+    <figcaption class="figure-caption text-wrap" style="width: 500px"> Current edit profile page. </figcaption>
+</figure>
+
+<figure>
     <img src="img/BandPage.png" class="rounded"/>
     <figcaption class="figure-caption text-wrap" style="width: 500px"> Current Groups Page. </figcaption>
 </figure>
