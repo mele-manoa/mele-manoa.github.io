@@ -73,4 +73,4 @@ Mele Manoa is created, designed, and maintained by
 
 [Milestone 3](https://github.com/orgs/mele-manoa/projects/3/views/1)
 
-[Deployment](http://198.211.96.241/#)
+[Deployment](http://138.68.69.79/)
