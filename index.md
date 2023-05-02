@@ -90,11 +90,12 @@ This process may take a while. After it is finished, you should be able to see t
 
 ## Team Members
 Mele Manoa is created, designed, and maintained by
-- Kendal Oya
-- Tevin Takata
-- Yeeun Shin
-- Isabelle Hu
+- [Kendal Oya](https://github.com/kendalo-tech)
+- [Tevin Takata](https://github.com/tevin-takata)
+- [Yeeun Shin](https://github.com/YeeunS)
+- [Isabelle Hu](https://github.com/IGraceH)
 
+Milestones
 - [Milestone 1](https://github.com/orgs/mele-manoa/projects/1/views/1)
 - [Milestone 2](https://github.com/orgs/mele-manoa/projects/2/views/1)
 - [Milestone 3](https://github.com/orgs/mele-manoa/projects/3/views/1)
