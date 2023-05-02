@@ -47,19 +47,19 @@ Thank you so much for using Mele Manoa!
 
 ## Community Feedback
 Feedback was compiled by multiple students who are currently studying in UH Manoa, taken anonymously for their privacy. After presenting to them the web application and letting them use it, this was the feedback that we have recieved:
->"Simple and easy to use, great concept and excecuted well."
+>"Simple and easy to use, great concept and excecuted well." -Ethan
 
->"Whoever developed this website was a genius."
+>"Whoever developed this website was a genius." -Gabriel
 
->"Good website that's organized and easy to use. Could add a place for people to put a sample of their music or an area inside the website to contact the musicians directly."
+>"Good website that's organized and easy to use. Could add a place for people to put a sample of their music or an area inside the website to contact the musicians directly." -Amy
 
 >"Doesn't look great on mobile."
 
->"It was easy to use and very straightforward except image url."
+>"It was easy to use and very straightforward except image url." -Kristine
 
->"It is great to seek different people and musical bands! Also it is easy to use the website."
+>"It is great to seek different people and musical bands! Also it is easy to use the website." -Kevin
 
->"Really easy to use. The image part was kinda confusing cause there's usually a button or something that says 'paste link' or 'upload image'"
+>"Really easy to use. The image part was kinda confusing cause there's usually a button or something that says 'paste link' or 'upload image'" -Trinity
 
 [Back to top](#mele-manoa)
 
