@@ -1,6 +1,12 @@
 # Mele Manoa
 ![ci-badge](https://github.com/mele-manoa/mele-manoa/workflows/ci-mele-manoa/badge.svg)
 
+## Table of Contents
+- [Overview](#overview)
+- [User Guide](#user-guide)
+- [Community Feedback](#community-feedback)
+- [Developer Guide](#developer-guide)
+
 ## Overview
 Mele Manoa is a web application designed to bring musicians of UH together for jam sessions or performing bands. It is an easy way for them to find others with similar tastes and compatible musical abilities, by allowing students to create a profile indicating their musical tastes, their musical capabilities, and their musical goals.
 
@@ -41,6 +47,24 @@ Login with your UH username and create your profile. Your profile will include y
 Admin accounts will be able to create or modify options for instrument groups and genres that the Discover page can be filtered by.
 
 You may edit your profile at any time using the 'Edit' button on your profile page. From there, you may modify your current information, and the 'Submit' button will save your information.
+
+
+## Community Feedback
+Feedback was compiled by multiple students who are currently studying in UH Manoa, taken anonymously for their privacy. After presenting to them the web application and letting them use it, this was the feedback that we have recieved:
+>"Simple and easy to use, great concept and excecuted well."
+
+>"Whoever developed this website was a genius."
+
+>"Good website that's organized and easy to use. Could add a place for people to put a sample of their music or an area inside the website to contact the musicians directly."
+
+>"Doesn't look great on mobile."
+
+>"It was easy to use and very straightforward except image url."
+
+>"It is great to seek different people and musical bands! Also it is easy to use the website."
+
+>"Really easy to use. The image part was kinda confusing cause there's usually a button or something that says 'paste link' or 'upload image'"
+
 
 ## Developer Guide
 To modify this web app, go to the [mele-manoa repository](https://github.com/mele-manoa/mele-manoa) on Github. Next, clone mele-manoa to your own local repository by clicking on **Code** and choose which method you prefer the most. I recommend opening it in Github Desktop. Then, name your local repository and open the repository in an IDE of your choice.
