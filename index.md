@@ -1,6 +1,12 @@
 # Mele Manoa
 ![ci-badge](https://github.com/mele-manoa/mele-manoa/workflows/ci-mele-manoa/badge.svg)
 
+## Table of Contents
+- [Overview](#overview)
+- [User Guide](#user-Guide)
+- [Community Feedback](#community-feedback)
+- [Developer Guide](#developer-guide)
+
 ## Overview
 Mele Manoa is a web application designed to bring musicians of UH together for jam sessions or performing bands. It is an easy way for them to find others with similar tastes and compatible musical abilities, by allowing students to create a profile indicating their musical tastes, their musical capabilities, and their musical goals.
 
