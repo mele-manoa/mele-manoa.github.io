@@ -6,9 +6,12 @@
 - [User Guide](#user-guide)
 - [Community Feedback](#community-feedback)
 - [Developer Guide](#developer-guide)
+- [Team Members](#team-members)
 
 ## Overview
-Mele Manoa is a web application designed to bring musicians of UH together for jam sessions or performing bands. It is an easy way for them to find others with similar tastes and compatible musical abilities, by allowing students to create a profile indicating their musical tastes, their musical capabilities, and their musical goals.
+[Mele Manoa](http://138.68.69.79/) is a web application designed to bring musicians of UH together for jam sessions or performing bands. It is an easy way for them to find others with similar tastes and compatible musical abilities, by allowing students to create a profile indicating their musical tastes, their musical capabilities, and their musical goals. They can then find and connect with other musicians of similar interests using Mele Manoa and schedule informal jams or other kinds of meetups with new friends. Mele Manoa also allows musicaians to discover other musical groups to join or to enjoy.
+
+[Back to top](#mele-manoa)
 
 ## User Guide
 <figure class="figure float-end ps-4">
@@ -40,6 +43,7 @@ Then the **Groups** page, this page is for musical groups that have already form
     <img src="img/userguide/userGuide7.png" class="rounded"  style="width: 600px" />
 </figure>
 Thank you so much for using Mele Manoa!
+[Back to top](#mele-manoa)
 
 ## Community Feedback
 Feedback was compiled by multiple students who are currently studying in UH Manoa, taken anonymously for their privacy. After presenting to them the web application and letting them use it, this was the feedback that we have recieved:
@@ -57,23 +61,32 @@ Feedback was compiled by multiple students who are currently studying in UH Mano
 
 >"Really easy to use. The image part was kinda confusing cause there's usually a button or something that says 'paste link' or 'upload image'"
 
+[Back to top](#mele-manoa)
 
 ## Developer Guide
 To modify this web app, go to the [mele-manoa repository](https://github.com/mele-manoa/mele-manoa) on Github. Next, clone mele-manoa to your own local repository by clicking on **Code** and choose which method you prefer the most. I recommend opening it in Github Desktop. Then, name your local repository and open the repository in an IDE of your choice.
 
-<img src="img/devguide/devGuide1.png" class="rounded" />
+<figure class="figure float-end ps-4">
+    <img src="img/devguide/devGuide1.png" class="rounded"  style="width: 600px" />
+</figure>
 
 Next, open up Terminal on Mac or Command Line on Windows or Linux. Navigate to the /app directory in your repository. Within /app, run `meteor npm install`. This will install all the extra necessary `npm` files.
 
-<img src="img/devguide/devGuide2.png" class="rounded" />
-
+<figure class="figure float-end ps-4">
+    <img src="img/devguide/devGuide2.png" class="rounded"  style="width: 600px" />
+</figure>
 Then, run `meteor npm run start`.
 
-<img src="img/devguide/devGuide3.png" class="rounded" />
-
+<figure class="figure float-end ps-4">
+    <img src="img/devguide/devGuide3.png" class="rounded"  style="width: 600px" />
+</figure>
 This process may take a while. After it is finished, you should be able to see the webpage up and running at [localhost:3000](http://localhost:3000/).
 
-<img src="img/devguide/devGuide4.png" class="rounded" />
+<figure class="figure float-end ps-4">
+    <img src="img/devguide/devGuide4.png" class="rounded"  style="width: 600px" />
+</figure>
+
+[Back to top](#mele-manoa)
 
 ## Team Members
 Mele Manoa is created, designed, and maintained by
@@ -82,12 +95,13 @@ Mele Manoa is created, designed, and maintained by
 - Yeeun Shin
 - Isabelle Hu
 
-[Team Contract](https://docs.google.com/document/d/1zy-giZkrca_htvXo5oxdvaI5PSrM_AwTMCYWHB_XyJM/edit?usp=sharing)
-
-[Milestone 1](https://github.com/orgs/mele-manoa/projects/1/views/1)
-
-[Milestone 2](https://github.com/orgs/mele-manoa/projects/2/views/1)
-
-[Milestone 3](https://github.com/orgs/mele-manoa/projects/3/views/1)
+- [Milestone 1](https://github.com/orgs/mele-manoa/projects/1/views/1)
+- [Milestone 2](https://github.com/orgs/mele-manoa/projects/2/views/1)
+- [Milestone 3](https://github.com/orgs/mele-manoa/projects/3/views/1)
 
 [Deployment](http://138.68.69.79/)
+
+[Team Contract](https://docs.google.com/document/d/1zy-giZkrca_htvXo5oxdvaI5PSrM_AwTMCYWHB_XyJM/edit?usp=sharing)
+
+[Back to top](#mele-manoa)
+
