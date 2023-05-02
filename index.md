@@ -10,44 +10,41 @@
 ## Overview
 Mele Manoa is a web application designed to bring musicians of UH together for jam sessions or performing bands. It is an easy way for them to find others with similar tastes and compatible musical abilities, by allowing students to create a profile indicating their musical tastes, their musical capabilities, and their musical goals.
 
-<figure>
-    <img src="img/Homepage.png" class="rounded"/>
+## User Guide
+<figure class="figure float-end ps-4">
+    <img src="img/userguide/userGuide1.png" class="rounded"  style="width: 500px" />
     <figcaption class="figure-caption text-wrap" style="width: 500px"> Current home/landing page </figcaption>
 </figure>
-
-
-<figure>
-    <img src="img/SignIn.png" class="rounded"/>
-    <figcaption class="figure-caption text-wrap" style="width: 500px"> Up to date sign in page. </figcaption>
+Welcome to Mele Manoa! You will first be greeted by this landing page, which you can use to sign in or register using any of the buttons on the page. The sign in and register buttons will allow you to login into your account to start using Mele Manoa. If this is your first time here, after registration you will also be prompted to fill in some information about yourself. This will allow other musicians of UH to find out about you and see who you are on Mele Manoa.
+<figure class="figure float-end ps-4">
+    <img src="img/userguide/userGuide2.png" class="rounded"  style="width: 500px" />
+    <figcaption class="figure-caption text-wrap" style="width: 500px"> Register Page </figcaption>
 </figure>
-
-
-<figure>
-    <img src="img/DiscoverM2.png" class="rounded"/>
-    <figcaption class="figure-caption text-wrap" style="width: 500px"> Current discover page. </figcaption>
+<figure class="figure float-end ps-4">
+    <img src="img/userguide/userGuide3.png" class="rounded"  style="width: 500px" />
+    <figcaption class="figure-caption text-wrap" style="width: 500px"> Profile Information </figcaption>
 </figure>
-
-<figure>
-    <img src="img/Profile.png" class="rounded"/>
-    <figcaption class="figure-caption text-wrap" style="width: 500px"> Current profile page. </figcaption>
+All this information will also appear on your profile, which you can edit at any time. You can put in your name, what instrument you play, an image to represent you, what your preferred genre is, and your skill level. Since Mele Manoa wants to allow musicians to come together, There are also two options for you to check: if you are open to informal jams with other musicians, or if you are seeking a band to join. You are also able to add in external social media links to Youtube, SoundCloud, or Instagram to help others understand what kind of music you make. Just make sure the link starts with `https://`!
+Once you hit submit, you will find your profile all set and ready for you! If you wish to change your information, simply click the edit button once more and you can edit your information all you want. In this case, I wanted to change my preferred genre and my skill level. I also added in my SoundCloud link.*
+<figure class="figure float-end ps-4">
+    <img src="img/userguide/userGuide4.png" class="rounded"  style="width: 500px" />
+    <figcaption class="figure-caption text-wrap" style="width: 500px"> User Profile </figcaption>
 </figure>
-
-<figure>
-    <img src="img/editProfileM2.png" class="rounded"/>
-    <figcaption class="figure-caption text-wrap" style="width: 500px"> Current edit profile page. </figcaption>
+<figure class="figure float-end ps-4">
+    <img src="img/userguide/userGuide5.png" class="rounded"  style="width: 500px" />
+    <figcaption class="figure-caption text-wrap" style="width: 500px"> Edit Profile. Note: External links are not real and for demonstration purposes only. </figcaption>
 </figure>
-
-<figure>
-    <img src="img/BandPage.png" class="rounded"/>
-    <figcaption class="figure-caption text-wrap" style="width: 500px"> Current Groups Page. </figcaption>
+When you think your profile looks good, head over to the **Discover** page on the navigation bar. Here you will find all your fellow musicians who also use Mele Manoa. You can filter through them using the sidebar on the right, depending on what kind of musicians you're looking for to jam with! The **Discover** page gives you all the information you need about them.
+<figure class="figure float-end ps-4">
+    <img src="img/userguide/userGuide6.png" class="rounded"  style="width: 500px" />
+    <figcaption class="figure-caption text-wrap" style="width: 500px"> Discover </figcaption>
 </figure>
-
-## User Guide
-Login with your UH username and create your profile. Your profile will include your musical talents and interests, and will be made public for others to see so that you will be able to join groups for jam sessions. You may also choose to include links to YouTube, SoundCloud, or Instagram. Navigate to the 'Discover' page to find others of similar musical interests as yours.
-Admin accounts will be able to create or modify options for instrument groups and genres that the Discover page can be filtered by.
-
-You may edit your profile at any time using the 'Edit' button on your profile page. From there, you may modify your current information, and the 'Submit' button will save your information.
-
+Then the **Groups** page, this page is for musical groups that have already formed within UH. Like in the **Discover** page, you can also filter through the groups to find your favorites and perhaps one you may be interested in joining.
+<figure class="figure float-end ps-4">
+    <img src="img/userguide/userGuide7.png" class="rounded"  style="width: 500px" />
+    <figcaption class="figure-caption text-wrap" style="width: 500px"> Groups </figcaption>
+</figure>
+Thank you so much for using Mele Manoa!
 
 ## Community Feedback
 Feedback was compiled by multiple students who are currently studying in UH Manoa, taken anonymously for their privacy. After presenting to them the web application and letting them use it, this was the feedback that we have recieved:
