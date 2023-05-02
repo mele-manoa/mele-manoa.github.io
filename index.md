@@ -22,6 +22,7 @@ Welcome to Mele Manoa! You will first be greeted by this landing page, which you
     <img src="img/userguide/userGuide3.png" class="rounded"  style="width: 600px" />
 </figure>
 All this information will also appear on your profile, which you can edit at any time. You can put in your name, what instrument you play, an image to represent you, what your preferred genre is, and your skill level. Since Mele Manoa wants to allow musicians to come together, There are also two options for you to check: if you are open to informal jams with other musicians, or if you are seeking a band to join. You are also able to add in external social media links to Youtube, SoundCloud, or Instagram to help others understand what kind of music you make. Just make sure the link starts with `https://`!
+
 Once you hit submit, you will find your profile all set and ready for you! If you wish to change your information, simply click the edit button once more and you can edit your information all you want. In this case, I wanted to change my preferred genre and my skill level. I also added in my SoundCloud link.*
 <figure class="figure float-end ps-4">
     <img src="img/userguide/userGuide4.png" class="rounded"  style="width: 600px" />
