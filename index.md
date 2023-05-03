@@ -75,27 +75,26 @@ Feedback was compiled by multiple students who are currently studying in UH Mano
 -- [Back to top](#mele-manoa)
 
 ## Developer Guide
-To modify this web app, go to the [mele-manoa repository](https://github.com/mele-manoa/mele-manoa) on Github. Next, clone mele-manoa to your own local repository by clicking on **Code** and choose which method you prefer the most. I recommend opening it in Github Desktop. Then, name your local repository and open the repository in an IDE of your choice.
+To modify this web app, go to the [mele-manoa repository](https://github.com/mele-manoa/mele-manoa) on Github. Next, clone mele-manoa to your own local repository by clicking on **Code** and choose which method you prefer the most. I recommend opening it in Github Desktop. Then, name your local repository and open the repository in an IDE of your choice. After forking the repository using Github Desktop, you will be able to make any changes you want. The fork will be prompted by Github Desktop once you push your changes.
 
 <figure class="figure float-end ps-4">
     <img src="img/devguide/devGuide1.png" class="rounded"  style="width: 600px" />
 </figure>
 
-Next, open up Terminal on Mac or Command Line on Windows or Linux. Navigate to the /app directory in your repository. Within /app, run `meteor npm install`. This will install all the extra necessary `npm` files.
+To run the web application locally, open up Terminal on Mac or Command Line on Windows or Linux. Navigate using `cd` to the `/app` directory in your repository. Within `/app`, run `meteor npm install`. This will install all the extra necessary `npm` files.
 
 <figure class="figure float-end ps-4">
     <img src="img/devguide/devGuide2.png" class="rounded"  style="width: 600px" />
 </figure>
-Then, run `meteor npm run start`.
+Then, run `meteor npm run start`. This process may take a while. After it is finished, you should be able to see the webpage up and running at [localhost:3000](http://localhost:3000/).
 
 <figure class="figure float-end ps-4">
     <img src="img/devguide/devGuide3.png" class="rounded"  style="width: 600px" />
 </figure>
-This process may take a while. After it is finished, you should be able to see the webpage up and running at [localhost:3000](http://localhost:3000/).
-
 <figure class="figure float-end ps-4">
     <img src="img/devguide/devGuide4.png" class="rounded"  style="width: 600px" />
 </figure>
+Thank you for using Mele Manoa!
 
 -- [Back to top](#mele-manoa)
 
