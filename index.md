@@ -11,7 +11,7 @@
 ## Overview
 [Mele Manoa](http://138.68.69.79/) is a web application designed to bring musicians of UH together for jam sessions or performing bands. It is an easy way for them to find others with similar tastes and compatible musical abilities, by allowing students to create a profile indicating their musical tastes, their musical capabilities, and their musical goals. They can then find and connect with other musicians of similar interests using Mele Manoa and schedule informal jams or other kinds of meetups with new friends. Mele Manoa also allows musicaians to discover other musical groups to join or to enjoy.
 
-[Back to top](#mele-manoa)
+-- [Back to top](#mele-manoa)
 
 ## User Guide
 <figure class="figure float-end ps-4">
@@ -42,11 +42,22 @@ Then the **Groups** page, this page is for musical groups that have already form
 <figure class="figure float-end ps-4">
     <img src="img/userguide/userGuide7.png" class="rounded"  style="width: 600px" />
 </figure>
+
+For Admins, new buttons will show up on the **Groups** page to add new groups or edit existing groups. Similar to users, you can set the group's name, image, members, genre, and if the group is open to new members or not. Members should be written in a comma-separated list to distinguish between each group member. Edit group is very similar, just press on a group's edit button to edit their information.
+<figure class="figure float-end ps-4">
+    <img src="img/userguide/userGuide8.png" class="rounded"  style="width: 600px" />
+</figure>
+<figure class="figure float-end ps-4">
+    <img src="img/userguide/userGuide9.png" class="rounded"  style="width: 600px" />
+</figure>
+
 Thank you so much for using Mele Manoa!
-[Back to top](#mele-manoa)
+
+-- [Back to top](#mele-manoa)
 
 ## Community Feedback
-Feedback was compiled by multiple students who are currently studying in UH Manoa, taken anonymously for their privacy. After presenting to them the web application and letting them use it, this was the feedback that we have recieved:
+Feedback was compiled by multiple students who are currently studying in UH Manoa. After presenting to them the web application and letting them use it, the general feedback was that the web application was simple, organized, and easy to use. A few changes and ideas were proposed by the musicians for future developments as well, all of which we will keep in mind.
+
 >"Simple and easy to use, great concept and excecuted well." - Ethan
 
 >"Whoever developed this website was a genius." - Gabriel
@@ -61,7 +72,7 @@ Feedback was compiled by multiple students who are currently studying in UH Mano
 
 >"Really easy to use. The image part was kinda confusing cause there's usually a button or something that says 'paste link' or 'upload image'" - Trinity
 
-[Back to top](#mele-manoa)
+-- [Back to top](#mele-manoa)
 
 ## Developer Guide
 To modify this web app, go to the [mele-manoa repository](https://github.com/mele-manoa/mele-manoa) on Github. Next, clone mele-manoa to your own local repository by clicking on **Code** and choose which method you prefer the most. I recommend opening it in Github Desktop. Then, name your local repository and open the repository in an IDE of your choice.
@@ -86,7 +97,7 @@ This process may take a while. After it is finished, you should be able to see t
     <img src="img/devguide/devGuide4.png" class="rounded"  style="width: 600px" />
 </figure>
 
-[Back to top](#mele-manoa)
+-- [Back to top](#mele-manoa)
 
 ## Team Members
 Mele Manoa is created, designed, and maintained by
@@ -104,5 +115,5 @@ Milestones
 
 [Team Contract](https://docs.google.com/document/d/1zy-giZkrca_htvXo5oxdvaI5PSrM_AwTMCYWHB_XyJM/edit?usp=sharing)
 
-[Back to top](#mele-manoa)
+-- [Back to top](#mele-manoa)
 
